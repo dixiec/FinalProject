@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "MaxMinManufacturingDMLoad", "MaxMinManufacturingDMLoad.dtproj", "{27BD4604-63A5-4462-AFDE-42AC170F2483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27BD4604-63A5-4462-AFDE-42AC170F2483}.Development|Default.ActiveCfg = Development
+		{27BD4604-63A5-4462-AFDE-42AC170F2483}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {749DD13D-CC0D-4E4E-A6B7-076A3009D0D7}
+	EndGlobalSection
+EndGlobal
